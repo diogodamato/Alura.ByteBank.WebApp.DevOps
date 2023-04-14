@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Alura.ByteBank.WebApp
+build_property.RootNamespace = Alura.ByteBank.WebApp
+build_property.ProjectDir = /Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Agencia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWdlbmNpYS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Agencia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWdlbmNpYS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Agencia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWdlbmNpYS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Agencia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWdlbmNpYS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Agencia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWdlbmNpYS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/ContaCorrentes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFDb3JyZW50ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/ContaCorrentes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFDb3JyZW50ZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/ContaCorrentes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFDb3JyZW50ZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/ContaCorrentes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFDb3JyZW50ZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/ContaCorrentes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFDb3JyZW50ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Home/PrincipalHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QcmluY2lwYWxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Shared/_Layout3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/UsuarioApps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb0FwcHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/UsuarioApps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb0FwcHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/UsuarioApps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb0FwcHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/UsuarioApps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb0FwcHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/UsuarioApps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb0FwcHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/UsuarioApps/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb0FwcHMvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/damato/Documents/Personal/Estudo/\[Alura\] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Alura.ByteBank.Infraestrutura.Testes
+build_property.ProjectDir = /Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Infraestrutura.Testes/
