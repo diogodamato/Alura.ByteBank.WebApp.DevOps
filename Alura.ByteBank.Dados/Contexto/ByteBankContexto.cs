@@ -18,10 +18,10 @@ namespace Alura.ByteBank.Dados.Contexto
             optionsBuilder.UseMySql(stringconexao, 
                                     ServerVersion.AutoDetect(stringconexao));
         }
-        //adicionando comentário 
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //teste
+            
             modelBuilder.Entity<Cliente>(entity =>
             {
                 entity.ToTable("cliente");
@@ -34,7 +34,7 @@ namespace Alura.ByteBank.Dados.Contexto
 
             modelBuilder.Entity<Agencia>(entity =>
             {
-                entity.ToTable("banco");
+                entity.ToTable("agencia");
                 entity.HasKey(e => e.Id);
                 entity.Property(e => e.Numero).IsRequired();
                 entity.Property(e => e.Endereco);
