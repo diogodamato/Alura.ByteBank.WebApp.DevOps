@@ -8808,11 +8808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Alura.ByteBank.WebApp.csproj",
+      "projectUniqueName": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.WebApp/Alura.ByteBank.WebApp.csproj",
       "projectName": "Alura.ByteBank.WebApp",
-      "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/Alura.ByteBank.WebApp.csproj",
+      "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.WebApp/Alura.ByteBank.WebApp.csproj",
       "packagesPath": "/Users/damato/.nuget/packages/",
-      "outputPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp/obj/",
+      "outputPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.WebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/damato/.nuget/NuGet/NuGet.Config"
@@ -8827,17 +8827,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Aplicacao/Alura.ByteBank.Aplicacao.csproj": {
-              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Aplicacao/Alura.ByteBank.Aplicacao.csproj"
+            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Aplicacao/Alura.ByteBank.Aplicacao.csproj": {
+              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Aplicacao/Alura.ByteBank.Aplicacao.csproj"
             },
-            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Apresentacao/Alura.ByteBank.Apresentacao.csproj": {
-              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Apresentacao/Alura.ByteBank.Apresentacao.csproj"
+            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Apresentacao/Alura.ByteBank.Apresentacao.csproj": {
+              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Apresentacao/Alura.ByteBank.Apresentacao.csproj"
             },
-            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Dados/Alura.ByteBank.Dados.csproj": {
-              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Dados/Alura.ByteBank.Dados.csproj"
+            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Dados/Alura.ByteBank.Dados.csproj": {
+              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Dados/Alura.ByteBank.Dados.csproj"
             },
-            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Domain/Alura.ByteBank.Dominio.csproj": {
-              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Domain/Alura.ByteBank.Dominio.csproj"
+            "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Domain/Alura.ByteBank.Dominio.csproj": {
+              "projectPath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Domain/Alura.ByteBank.Dominio.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+3GQyY+aEUJXfuSGnk9dKcl9a6V/jkNKv+/O2FnHKiHx2JEYSEG5wzB4OVBqh3cl247aRLN5cwdTiDPiTRJHA==",
+  "dgSpecHash": "DZMOzGMcM7lP4KiGWm0D4jquwTYBvYZfY7+aKY4VqAQFRdzGrFL1sTeo0BozdIglB0LnyMTqowpM3NV8dJ2WOw==",
   "success": true,
-  "projectFilePath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.Aplicacao/Alura.ByteBank.Aplicacao.csproj",
+  "projectFilePath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.Aplicacao/Alura.ByteBank.Aplicacao.csproj",
   "expectedPackageFiles": [
     "/Users/damato/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/damato/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

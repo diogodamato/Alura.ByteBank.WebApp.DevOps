@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bMZhewlaYQJpy0i0x4gLjSe+cku7Mpx7VyBLBxuV8XZP1IzSNsRpinw2zQHeeZfsXb7GV1f+9TDywKIHdQ+lOg==",
+  "dgSpecHash": "HfJEsxYBJIlURMiIXZlYzLaoovLILG680Z9U0g6mdrVEhjYbhkBm1CFXBZUImgWrPZrUBxVwCBAVQJICU/erBg==",
   "success": true,
-  "projectFilePath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/3-Conheca o Azure DevOps/Alura.ByteBank.WebApp-master/Alura.ByteBank.WebApp.Testes/Alura.ByteBank.WebApp.Testes.csproj",
+  "projectFilePath": "/Users/damato/Documents/Personal/Estudo/[Alura] CSharp/3 - Testes em dotNET_testes de interface usando Selenium/Alura.ByteBank.WebApp.DevOps/Alura.ByteBank.WebApp.Testes/Alura.ByteBank.WebApp.Testes.csproj",
   "expectedPackageFiles": [
     "/Users/damato/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/damato/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",
