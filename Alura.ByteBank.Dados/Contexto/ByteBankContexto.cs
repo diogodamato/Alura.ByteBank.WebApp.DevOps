@@ -21,7 +21,7 @@ namespace Alura.ByteBank.Dados.Contexto
         //adicionando comentário 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            
+            //teste
             modelBuilder.Entity<Cliente>(entity =>
             {
                 entity.ToTable("cliente");
