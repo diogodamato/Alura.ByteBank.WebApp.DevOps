@@ -18,7 +18,7 @@ namespace Alura.ByteBank.Dados.Contexto
             optionsBuilder.UseMySql(stringconexao, 
                                     ServerVersion.AutoDetect(stringconexao));
         }
-        //adding a comment
+        //adicionando comentário 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             
