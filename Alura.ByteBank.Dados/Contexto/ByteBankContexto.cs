@@ -24,7 +24,7 @@ namespace Alura.ByteBank.Dados.Contexto
             //teste
             modelBuilder.Entity<Cliente>(entity =>
             {
-                entity.ToTable("osso");
+                entity.ToTable("cliente");
                 entity.HasKey(e => e.Id);
                 entity.Property(e => e.Nome).IsRequired();
                 entity.Property(e => e.Identificador);
