@@ -34,7 +34,7 @@ namespace Alura.ByteBank.Dados.Contexto
 
             modelBuilder.Entity<Agencia>(entity =>
             {
-                entity.ToTable("agencia");
+                entity.ToTable("banco");
                 entity.HasKey(e => e.Id);
                 entity.Property(e => e.Numero).IsRequired();
                 entity.Property(e => e.Endereco);
